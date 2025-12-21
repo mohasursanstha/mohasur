@@ -20,9 +20,9 @@ export const SECTIONS: SectionContent[] = [
       mr: 'समुपदेशन आणि वैद्यकीय मदतीद्वारे अंमली पदार्थ सेवनाविरुद्ध लढा.' 
     },
     images: [
-      { url: '/images/deaddiction/row1/d_1.jpg', caption: { en: 'Community awareness drive.', mr: 'सामुदायिक जनजागृती मोहीम.' } },
-      { url: '/images/deaddiction/row1/d_2.jpg' },
-      { url: '/images/deaddiction/row2/d_4.jpg', caption: { en: 'Medical counseling session.', mr: 'वैद्यकीय समुपदेशन सत्र.' } },
+      { url: 'images/deaddiction/row1/d_1.jpg', caption: { en: 'Community awareness drive.', mr: 'सामुदायिक जनजागृती मोहीम.' } },
+      { url: 'images/deaddiction/row1/d_2.jpg' },
+      { url: 'images/deaddiction/row2/d_4.jpg', caption: { en: 'Medical counseling session.', mr: 'वैद्यकीय समुपदेशन सत्र.' } },
     ]
   },
   {
@@ -33,9 +33,9 @@ export const SECTIONS: SectionContent[] = [
       mr: 'स्थानिक कृती आणि शाश्वत पद्धतींद्वारे आपल्या ग्रहाचे संरक्षण करणे.' 
     },
     images: [
-      { url: '/images/environment/row_1/e_1.jpg', caption: { en: 'Tree plantation drive 2024.', mr: 'वृक्षारोपण मोहीम २०२४.' } },
-      { url: '/images/environment/row_1/e_2.jpg' },
-      { url: '/images/environment/row_1/e_3.jpg', caption: { en: 'Forest conservation program.', mr: 'वन संवर्धन कार्यक्रम.' } },
+      { url: 'images/environment/row_1/e_1.jpg', caption: { en: 'Tree plantation drive 2024.', mr: 'वृक्षारोपण मोहीम २०२४.' } },
+      { url: 'images/environment/row_1/e_2.jpg' },
+      { url: 'images/environment/row_1/e_3.jpg', caption: { en: 'Forest conservation program.', mr: 'वन संवर्धन कार्यक्रम.' } },
     ]
   },
   {
@@ -46,11 +46,11 @@ export const SECTIONS: SectionContent[] = [
       mr: 'सुरक्षित ड्रायव्हिंग सवयी आणि रस्ता सुरक्षा जनजागृती वाढवणे.' 
     },
     images: [
-      { url: '/images/road_safety/row1/road_s_1.jpg' },
-      { url: '/images/road_safety/row1/r_s_2.jpg', caption: { en: 'Traffic rule education.', mr: 'रहदारी नियम शिक्षण.' } },
-      { url: '/images/road_safety/row1/r_s_3.jpg' },
+      { url: 'images/road_safety/row1/road_s_1.jpg' },
+      { url: 'images/road_safety/row1/r_s_2.jpg', caption: { en: 'Traffic rule education.', mr: 'रहदारी नियम शिक्षण.' } },
+      { url: 'images/road_safety/row1/r_s_3.jpg' },
 
-      { url: '/images/road_safety/row2/road_s_1.jpg' },
+      { url: 'images/road_safety/row2/road_s_1.jpg' },
       { url: 'https://images.unsplash.com/photo-1449034446853-66c86144b0ad?auto=format&fit=crop&q=80&w=800', caption: { en: 'Traffic rule education.', mr: 'रहदारी नियम शिक्षण.' } },
       { url: 'https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&q=80&w=800' },
     ]
@@ -63,7 +63,7 @@ export const SECTIONS: SectionContent[] = [
       mr: 'थेट मदत आणि समर्थनाद्वारे वंचित समुदायांना आधार देणे.' 
     },
     images: [
-      { url: '/images/social_w/row_1/s_w_1.jpg', caption: { en: 'Food distribution drive.', mr: 'अन्न वाटप मोहीम.' } },
+      { url: 'images/social_w/row_1/s_w_1.jpg', caption: { en: 'Food distribution drive.', mr: 'अन्न वाटप मोहीम.' } },
       // { url: 'https://images.unsplash.com/photo-1509059852496-f3822ae057bf?auto=format&fit=crop&q=80&w=800' },
       // { url: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&q=80&w=800' },
     ]
@@ -76,8 +76,8 @@ export const SECTIONS: SectionContent[] = [
       mr: 'सर्वांसाठी दर्जेदार वैद्यकीय सेवांची उपलब्धता सुनिश्चित करणे.' 
     },
     images: [
-      { url: '/images/healthcare/row_1/h_c_1.jpg', caption: { en: 'health camp.', mr: 'आरोग्य शिबीर.' } },
-      { url: '/images/healthcare/row_1/h_c_2.jpeg', caption: { en: 'health camp.', mr: 'आरोग्य शिबीर.' } },
+      { url: 'images/healthcare/row_1/h_c_1.jpg', caption: { en: 'health camp.', mr: 'आरोग्य शिबीर.' } },
+      { url: 'images/healthcare/row_1/h_c_2.jpeg', caption: { en: 'health camp.', mr: 'आरोग्य शिबीर.' } },
       // { url: 'https://images.unsplash.com/photo-1504439468489-c8920d796a29?auto=format&fit=crop&q=80&w=800' },
     ]
   },
@@ -89,7 +89,7 @@ export const SECTIONS: SectionContent[] = [
       mr: 'महिलांमध्ये स्वातंत्र्य आणि नेतृत्व विकसित करणे.' 
     },
     images: [
-      { url: '/images/women_e/row_1/w_e_1.jpg', caption: { en: 'Skill development workshop.', mr: 'कौशल्य विकास कार्यशाळा.' } },
+      { url: 'images/women_e/row_1/w_e_1.jpg', caption: { en: 'Skill development workshop.', mr: 'कौशल्य विकास कार्यशाळा.' } },
       // { url: 'https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e?auto=format&fit=crop&q=80&w=800' },
       // { url: 'https://images.unsplash.com/photo-1573166675921-076ea6b6212c?auto=format&fit=crop&q=80&w=800', caption: { en: 'Women entrepreneurship seminar.', mr: 'महिला उद्योजकता चर्चासत्र.' } },
     ]
