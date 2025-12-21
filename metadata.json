@@ -1,0 +1,8 @@
+{
+  "name": "Mohasur",
+  "description": "An advanced AI-powered creative workbench featuring real-time voice/video conversation, high-quality image and video generation, and grounded search-enabled chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
