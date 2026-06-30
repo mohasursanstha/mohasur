@@ -22,7 +22,13 @@ export const SECTIONS: SectionContent[] = [
     images: [
       { url: 'images/deaddiction/row1/d_1.jpg', caption: { en: 'Community awareness drive.', mr: 'सामुदायिक जनजागृती मोहीम.' } },
       { url: 'images/deaddiction/row1/d_2.jpg' },
-      { url: 'images/deaddiction/row2/d_4.jpg', caption: { en: 'Medical counseling session.', mr: 'वैद्यकीय समुपदेशन सत्र.' } },
+      { url: 'images/deaddiction/row1/d_3.jpeg' },
+      { url: 'images/deaddiction/row2/2_d_1.jpg' },
+      { url: 'images/deaddiction/row2/2_d_2.jpg' },
+      { url: 'images/deaddiction/row2/2_d_3.jpeg' },
+      { url: 'images/deaddiction/row3/3_d_1.jpeg' },
+       { url: 'images/deaddiction/row3/3_d_2.jpeg' },
+        { url: 'images/deaddiction/row3/3_d_3.jpeg' },
     ]
   },
   {
@@ -50,9 +56,12 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/road_safety/row1/r_s_2.jpg', caption: { en: 'Traffic rule education.', mr: 'रहदारी नियम शिक्षण.' } },
       { url: 'images/road_safety/row1/r_s_3.jpg' },
 
-      { url: 'images/road_safety/row2/road_s_1.jpg' },
-      { url: 'https://images.unsplash.com/photo-1449034446853-66c86144b0ad?auto=format&fit=crop&q=80&w=800', caption: { en: 'Traffic rule education.', mr: 'रहदारी नियम शिक्षण.' } },
-      { url: 'https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&q=80&w=800' },
+      { url: 'images/road_safety/row2/2_r_s_2.jpeg' },
+      { url: 'images/road_safety/row2/r_s_2.jpeg', },
+      { url: 'images/road_safety/row2/r_s_3.jpeg' },
+
+      { url: 'images/road_safety/row3/3_r_s_1.jpeg' },
+      { url: 'images/road_safety/row3/3_r_s__2.jpeg', },
     ]
   },
   {
@@ -64,21 +73,33 @@ export const SECTIONS: SectionContent[] = [
     },
     images: [
       { url: 'images/social_w/row_1/s_w_1.jpg', caption: { en: 'Food distribution drive.', mr: 'अन्न वाटप मोहीम.' } },
-      // { url: 'https://images.unsplash.com/photo-1509059852496-f3822ae057bf?auto=format&fit=crop&q=80&w=800' },
-      // { url: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&q=80&w=800' },
+      { url: 'images/social_w/row_1/s_w_2.jpeg', },
+      { url: 'images/social_w/row_1/s_w_3.jpeg', },
+      
+      { url: 'images/social_w/row_1/s_w_4.jpeg', },
+      { url: 'images/social_w/row_1/s_w_5.jpeg', },
+      { url: 'images/social_w/row_1/s_w_6.jpeg', },
+
+      { url: 'images/social_w/row_1/s_w_7.jpeg', },
+      { url: 'images/social_w/row_1/s_w_8.jpeg', },
+      { url: 'images/social_w/row_1/s_w_9.jpeg', },
+
+      { url: 'images/social_w/row_1/s_w_10.jpeg', },
+      { url: 'images/social_w/row_1/s_w_11.jpeg', },
     ]
   },
   {
     id: 'healthcare',
-    title: { en: 'Public Healthcare', mr: 'सार्वजनिक आरोग्यसेवा' },
+    title: { en: 'Public Healthcare', mr: 'सार्वजनिक आरोग्य' },
     description: { 
       en: 'Ensuring access to quality medical services for all.', 
       mr: 'सर्वांसाठी दर्जेदार वैद्यकीय सेवांची उपलब्धता सुनिश्चित करणे.' 
     },
     images: [
       { url: 'images/healthcare/row_1/h_c_1.jpg', caption: { en: 'health camp.', mr: 'आरोग्य शिबीर.' } },
-      { url: 'images/healthcare/row_1/h_c_2.jpeg', caption: { en: 'health camp.', mr: 'आरोग्य शिबीर.' } },
-      // { url: 'https://images.unsplash.com/photo-1504439468489-c8920d796a29?auto=format&fit=crop&q=80&w=800' },
+      { url: 'images/healthcare/row_1/h_c_2.jpeg', },
+      { url: 'images/healthcare/row_1/h_c_3.jpeg', },
+      
     ]
   },
   {
@@ -90,8 +111,9 @@ export const SECTIONS: SectionContent[] = [
     },
     images: [
       { url: 'images/women_e/row_1/w_e_1.jpg', caption: { en: 'Skill development workshop.', mr: 'कौशल्य विकास कार्यशाळा.' } },
-      // { url: 'https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e?auto=format&fit=crop&q=80&w=800' },
-      // { url: 'https://images.unsplash.com/photo-1573166675921-076ea6b6212c?auto=format&fit=crop&q=80&w=800', caption: { en: 'Women entrepreneurship seminar.', mr: 'महिला उद्योजकता चर्चासत्र.' } },
+      { url: 'images/women_e/row_1/w_e_2.jpeg', },
+      { url: 'images/women_e/row_1/w_e_3.jpeg', },
+      
     ]
   }
 ];
