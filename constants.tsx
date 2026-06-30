@@ -27,8 +27,13 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/deaddiction/row2/2_d_2.jpg' },
       { url: 'images/deaddiction/row2/2_d_3.jpeg' },
       { url: 'images/deaddiction/row3/3_d_1.jpeg' },
-       { url: 'images/deaddiction/row3/3_d_2.jpeg' },
-        { url: 'images/deaddiction/row3/3_d_3.jpeg' },
+
+      { url: 'images/deaddiction/row4/4_d_1.jpeg' },
+      { url: 'images/deaddiction/row4/4_d_2.jpg' },
+      { url: 'images/deaddiction/row4/4_d_3.jpeg' },
+
+      { url: 'images/deaddiction/row5/5_d_1.jpeg' },
+      { url: 'images/deaddiction/row5/5_d_2.jpeg' },
     ]
   },
   {
@@ -61,7 +66,8 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/road_safety/row2/r_s_3.jpeg' },
 
       { url: 'images/road_safety/row3/3_r_s_1.jpeg' },
-      { url: 'images/road_safety/row3/3_r_s__2.jpeg', },
+      { url: 'images/road_safety/row3/3_r_s_2.jpeg', },
+      { url: 'images/road_safety/row3/3_r_s_3.jpg', },
     ]
   },
   {
@@ -86,6 +92,7 @@ export const SECTIONS: SectionContent[] = [
 
       { url: 'images/social_w/row_1/s_w_10.jpeg', },
       { url: 'images/social_w/row_1/s_w_11.jpeg', },
+      { url: 'images/social_w/row_1/s_w_12.jpg', },
     ]
   },
   {
@@ -113,6 +120,8 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/women_e/row_1/w_e_1.jpg', caption: { en: 'Skill development workshop.', mr: 'कौशल्य विकास कार्यशाळा.' } },
       { url: 'images/women_e/row_1/w_e_2.jpeg', },
       { url: 'images/women_e/row_1/w_e_3.jpeg', },
+
+      { url: 'images/women_e/row_1/w_e_4.jpg', },
       
     ]
   }

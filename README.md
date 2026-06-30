@@ -5,3 +5,9 @@
 
 
 Initial commit
+
+<!-- to check repo link: git remote -v
+git add.
+git commit -m "..."
+git push origin main
+npm run deploy -->
