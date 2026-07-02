@@ -34,21 +34,30 @@ export const SECTIONS: SectionContent[] = [
 
       { url: 'images/deaddiction/row5/5_d_1.jpeg' },
       { url: 'images/deaddiction/row5/5_d_2.jpeg' },
+      { url: 'images/deaddiction/row5/5_d_3.jpeg' },
+
+      { url: 'images/deaddiction/row6/6_d_1.jpeg' },
+      { url: 'images/deaddiction/row6/6_d_2.jpeg' },
+      { url: 'images/deaddiction/row6/6_d_3.jpeg' },
+
+      { url: 'images/deaddiction/row7/7_d_1.jpg' },
+      { url: 'images/deaddiction/row7/7_d_2.jpg' },
+      { url: 'images/deaddiction/row7/7_d_3.jpg' },
+
+      { url: 'images/deaddiction/row8/8_d_1.jpg' },
+      { url: 'images/deaddiction/row8/8_d_2.jpg' },
+      { url: 'images/deaddiction/row8/8_d_3.jpg' },
+
+      { url: 'images/deaddiction/row9/9_d_1.jpg' },
+      { url: 'images/deaddiction/row9/9_d_2.jpg' },
+      { url: 'images/deaddiction/row9/9_d_3.jpg' },
+
+      { url: 'images/deaddiction/row10/10_d_1.jpg' },
+      { url: 'images/deaddiction/row10/10_d_2.jpg' },
+
     ]
   },
-  {
-    id: 'environment',
-    title: { en: 'Environmental Awareness', mr: 'पर्यावरण जनजागृती' },
-    description: { 
-      en: 'Protecting our planet through local action and sustainable practices.', 
-      mr: 'स्थानिक कृती आणि शाश्वत पद्धतींद्वारे आपल्या ग्रहाचे संरक्षण करणे.' 
-    },
-    images: [
-      { url: 'images/environment/row_1/e_1.jpg', caption: { en: 'Tree plantation drive 2024.', mr: 'वृक्षारोपण मोहीम २०२४.' } },
-      { url: 'images/environment/row_1/e_2.jpg' },
-      { url: 'images/environment/row_1/e_3.jpg', caption: { en: 'Forest conservation program.', mr: 'वन संवर्धन कार्यक्रम.' } },
-    ]
-  },
+  
   {
     id: 'roadsafety',
     title: { en: 'Road Safety Awareness', mr: 'रस्ता सुरक्षा जनजागृती' },
@@ -68,6 +77,20 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/road_safety/row3/3_r_s_1.jpeg' },
       { url: 'images/road_safety/row3/3_r_s_2.jpeg', },
       { url: 'images/road_safety/row3/3_r_s_3.jpg', },
+
+      { url: 'images/road_safety/row4/4_r_s_1.jpg' },
+      { url: 'images/road_safety/row4/4_r_s_2.jpg', },
+      { url: 'images/road_safety/row4/4_r_s_3.jpg', },
+
+      { url: 'images/road_safety/row5/5_r_s_1.jpg' },
+      { url: 'images/road_safety/row5/5_r_s_2.jpg', },
+      { url: 'images/road_safety/row5/5_r_s_3.JPG', },
+
+      { url: 'images/road_safety/row6/6_r_s_1.JPG' },
+      { url: 'images/road_safety/row6/6_r_s_2.JPG', },
+      { url: 'images/road_safety/row6/6_r_s_3.jpg', },
+
+      { url: 'images/road_safety/row7/7_r_s_1.jpg' },
     ]
   },
   {
@@ -93,6 +116,34 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/social_w/row_1/s_w_10.jpeg', },
       { url: 'images/social_w/row_1/s_w_11.jpeg', },
       { url: 'images/social_w/row_1/s_w_12.jpg', },
+
+      { url: 'images/social_w/row_1/s_w_13.JPG', },
+      { url: 'images/social_w/row_1/s_w_14.jpg', },
+      { url: 'images/social_w/row_1/s_w_15.jpg', },
+
+      { url: 'images/social_w/row_1/s_w_16.jpg', },
+      { url: 'images/social_w/row_1/s_w_17.jpg', },
+      { url: 'images/social_w/row_1/s_w_18.jpg', },
+
+      { url: 'images/social_w/row_1/s_w_19.jpg', },
+      { url: 'images/social_w/row_1/s_w_20.jpeg', },
+      { url: 'images/social_w/row_1/s_w_21.jpeg', },
+
+      { url: 'images/social_w/row_1/s_w_22.jpg', },
+      { url: 'images/social_w/row_1/s_w_23.jpeg', },
+      { url: 'images/social_w/row_1/s_w_24.jpg', },
+
+      { url: 'images/social_w/row_1/s_w_25.jpg', },
+      { url: 'images/social_w/row_1/s_w_26.jpg', },
+      { url: 'images/social_w/row_1/s_w_27.jpg', },
+
+      { url: 'images/social_w/row_1/s_w_28.jpg', },
+      { url: 'images/social_w/row_1/s_w_29.jpg', },
+      { url: 'images/social_w/row_1/s_w_30.jpg', },
+
+      { url: 'images/social_w/row_1/s_w_31.jpg', },
+      { url: 'images/social_w/row_1/s_w_32.jpg', },
+      { url: 'images/social_w/row_1/s_w_33.jpg', },
     ]
   },
   {
@@ -106,6 +157,9 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/healthcare/row_1/h_c_1.jpg', caption: { en: 'health camp.', mr: 'आरोग्य शिबीर.' } },
       { url: 'images/healthcare/row_1/h_c_2.jpeg', },
       { url: 'images/healthcare/row_1/h_c_3.jpeg', },
+
+      { url: 'images/healthcare/row_1/h_c_4.jpg', },
+      { url: 'images/healthcare/row_1/h_c_5.jpg', },
       
     ]
   },
@@ -122,9 +176,26 @@ export const SECTIONS: SectionContent[] = [
       { url: 'images/women_e/row_1/w_e_3.jpeg', },
 
       { url: 'images/women_e/row_1/w_e_4.jpg', },
+
+      { url: 'images/women_e/row_1/w_e_5.jpg', },
+      { url: 'images/women_e/row_1/w_e_6.jpg', },
       
     ]
-  }
+  },
+
+  {
+    id: 'environment',
+    title: { en: 'Environmental Awareness', mr: 'पर्यावरण जनजागृती' },
+    description: { 
+      en: 'Protecting our planet through local action and sustainable practices.', 
+      mr: 'स्थानिक कृती आणि शाश्वत पद्धतींद्वारे आपल्या ग्रहाचे संरक्षण करणे.' 
+    },
+    images: [
+      { url: 'images/environment/row_1/e_1.jpg', caption: { en: 'Tree plantation drive 2024.', mr: 'वृक्षारोपण मोहीम २०२४.' } },
+      { url: 'images/environment/row_1/e_2.jpg' },
+      { url: 'images/environment/row_1/e_3.jpg', caption: { en: 'Forest conservation program.', mr: 'वन संवर्धन कार्यक्रम.' } },
+    ]
+  },
 ];
 
 export const UI_STRINGS = {
